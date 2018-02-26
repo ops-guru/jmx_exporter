@@ -20,6 +20,8 @@
     <module>collector</module>
     <module>jmx_prometheus_httpserver</module>
     <module>jmx_prometheus_javaagent</module>
+    <module>jmx_prometheus_httpserver_secure</module>
+    <module>jmx_prometheus_javaagent_secure</module>
   </modules>
 
   <distributionManagement>

@@ -134,3 +134,10 @@ Add the following flag to your Java invocation:
 A Debian binary package is created as part of the build process and it can
 be used to install an executable into `/usr/bin/jmx_exporter` with configuration
 in `/etc/jmx_exporter/jmx_exporter.yaml`.
+
+
+## Security
+
+Safe access to JMX Exporter with TLS and authentication realised in secure agents.
+
+Please consult [SECURITY](secure/SECURITY.md) for more info.

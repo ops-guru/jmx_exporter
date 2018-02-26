@@ -1,0 +1,5 @@
+---
+startDelaySeconds: 0
+ssl: true
+rules:
+- pattern: ".*"
